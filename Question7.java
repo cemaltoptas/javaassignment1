@@ -12,7 +12,7 @@ public class Question7 {
 		System.out.println();
 		System.out.println("I am from \"Germany\".");
 		System.out.println();
-		System.out.println("how is your day going on, \'good\' or \'bad\'");
+		System.out.println("how is your day going on,\'good\'or\'bad\'");
 		
 	}
 
